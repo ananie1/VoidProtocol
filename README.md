@@ -1,5 +1,7 @@
 # VOID PROTOCOL
 
+[🇷🇺 Русский](README.md) | [🇬🇧 English](README_en.md)
+
 2D sci-fi top-down shooter roguelike на **C++17 + raylib 5.0**.
 Очисти станцию от враждебных дроидов, собирай эссенцию, переживай волны и уничтожь **Главное Ядро** в последней комнате.
 
